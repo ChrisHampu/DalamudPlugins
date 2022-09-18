@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "Author": "Elixsis",
+    "Name": "Auto Hook (Elixsis)",
+    "Punchline": "Makes fishing less (or more) boring",
+    "Description": "It hooks the fish for you, can you believe it?",
+    "InternalName": "AutoHook",
+    "RepoUrl": "https://github.com/ChrisHampu/AutoHook",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Gathering",
+      "Fishing"
+    ],
+    "DalamudApiLevel": 7,
+    "IconUrl": "https://raw.githubusercontent.com/ChrisHampu/AutoHook/main/AutoHook/images/icon.png",
+    "Changelog": "Patch 6.2 Update",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "AssemblyVersion": "2.2.3.2",
+    "LastUpdated": 1663474847,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/ChrisHampu/AutoHook/releases/download/2.2.3.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ChrisHampu/AutoHook/releases/download/2.2.3.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ChrisHampu/AutoHook/releases/download/2.2.3.2/latest.zip"
+  }
+]
